@@ -11,9 +11,9 @@ A placa que usei possiu:
 
 
 ## Datasheets
-* [Driver do Display - MM5451]()
-* [Display 7 Segmentos - TDSO5150]()
-* [Transistor PNP - BC856-3F]()
+* [Driver do Display - MM5451](https://github.com/lucas458/MM5451/blob/main/datasheet/MM5451V.PDF)
+* [Display 7 Segmentos - TDSO5150](https://github.com/lucas458/MM5451/blob/main/datasheet/tdsx51x0.pdf)
+* [Transistor PNP - BC856-3F](https://github.com/lucas458/MM5451/blob/main/datasheet/BC856.PDF)
 
 
 #### O display é multiplexado com dois transistores **PNP** ligados no bit1 e bit2.
