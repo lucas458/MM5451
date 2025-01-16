@@ -1,9 +1,9 @@
-# Driver para o MM5451
+# Driver para o MM5451 usando Arduino
 A placa que usei possiu:
 * 1x MM5451V
 * 6x Botões
 * 6x LEDs
-* 5x Display 7 Segmentos **Anodo comum**
+* 5x Displays 7 Segmentos **Anodo comum**
 
 
 ![Placa](https://github.com/lucas458/MM5451/blob/main/image/placa.jpg?raw=true "Placa")
@@ -21,8 +21,8 @@ A placa que usei possiu:
 | Bit1 | Bit2 | Descrição |
 | :-: | :-: | :- |
 | 0 | 0 | Desligado |
-| 0 | 1 | Controla display 1 e os LEDs |
-| 1 | 0 | Controla display 2 ao 5 |
+| 0 | 1 | Controla o display 1 e os LEDs |
+| 1 | 0 | Controla os displays 2 ao 5 |
 | 1 | 1 | **Ilegal** |
 
 ### Quadando o **bit1** = `1`
