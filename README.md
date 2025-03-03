@@ -8,7 +8,7 @@ A placa que usei possiu:
 
 ![Placa](https://github.com/lucas458/MM5451/blob/main/image/placa.jpg?raw=true "Placa")
 
-
+![Pinagem da Placa](https://github.com/lucas458/MM5451/blob/main/image/placa_pinos.jpg?raw=true "Pinagem da Placa")
 
 ## Datasheets
 * [Driver do Display - MM5451](https://github.com/lucas458/MM5451/blob/main/datasheet/MM5451V.PDF)
